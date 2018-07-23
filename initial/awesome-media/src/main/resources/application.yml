@@ -1,0 +1,11 @@
+management:
+  security:
+    enabled: false    
+
+spring:
+  application:
+    name: awesome-media
+  thymeleaf:
+    prefix: classpath:/static/html/
+
+promotion: action
